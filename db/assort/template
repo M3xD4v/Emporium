@@ -1,0 +1,27 @@
+{
+	"items":[
+	   {
+		  "_id":"abc",
+		  "_tpl":"59e8936686f77467ce798647",
+		  "parentId":"hideout",
+		  "slotId":"hideout",
+		  "upd":{
+			 "UnlimitedCount":true,
+			 "StackObjectsCount":999999
+		  }
+	   }
+	],
+	"barter_scheme":{
+	   "abc":[
+		  [
+			 {
+				"count":4532,
+				"_tpl":"5449016a4bdc2d6f028b456f"
+			 }
+		  ]
+	   ]
+	},
+	"loyal_level_items":{
+	   "abc":1
+	}
+ }

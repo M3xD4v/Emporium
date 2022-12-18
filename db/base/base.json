@@ -1,0 +1,81 @@
+{
+	"_id": "Emporium",
+	"working": true,
+	"customization_seller": false,
+	"name": "Emporium",
+	"surname": "Emporium",
+	"nickname": "Emporium",
+	"location": "Emporium",
+	"description": "Emporium is a trade front in the world of Tarkov who is known for their wide selection of goods and merchandise. The boss woman and her business partners are always on the lookout for new and interesting items to add to their inventory. The boss is known for her friendly and helpful staff, who are always willing to go the extra mile to help customers find what they are looking for. They are known for their ability to find hard-to-find items. Whether you are looking for weapons, gear, or everyday supplies, you can be sure you may find it at Emporium's. With a reputation for fair prices and top-notch customer service, Emporium's shop is a go-to destination for traders and scavengers alike. This is what I have for you",
+	"avatar": "/files/trader/avatar/avatar3.jpg",
+	"balance_rub": 5000000,
+	"balance_dol": 0,
+	"balance_eur": 0,
+	"unlockedByDefault": true,
+	"discount": 0,
+	"discount_end": 0,
+	"buyer_up": true,
+	"currency": "RUB",
+	"nextResupply": 1615141448,
+	"repair": {
+		"availability": false,
+		"quality": "1",
+		"excluded_id_list": [],
+		"excluded_category": [],
+		"currency": "5449016a4bdc2d6f028b456f",
+		"currency_coefficient": 1
+	},
+	"insurance": {
+		"availability": false,
+		"min_payment": 0,
+		"min_return_hour": 0,
+		"max_return_hour": 0,
+		"max_storage_time": 99,
+		"excluded_category": []
+	},
+	"gridHeight": 300,
+	"loyaltyLevels": [
+		{
+			"minLevel": 0,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"buy_price_coef": 55,
+			"repair_price_coef": 150,
+			"insurance_price_coef": 10,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0
+		},
+		{
+			"minLevel": 7,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"buy_price_coef": 55,
+			"repair_price_coef": 150,
+			"insurance_price_coef": 10,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0
+		},
+		{
+			"minLevel": 10,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"buy_price_coef": 55,
+			"repair_price_coef": 150,
+			"insurance_price_coef": 10,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0
+		},
+		{
+			"minLevel": 15,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"buy_price_coef": 55,
+			"repair_price_coef": 150,
+			"insurance_price_coef": 10,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 0
+		}
+	],
+	"sell_category": [
+	]
+}

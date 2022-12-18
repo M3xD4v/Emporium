@@ -1,0 +1,92 @@
+{
+    "TraderName": "Emporium",
+    "TraderUpdateTimeInSec": 1200,
+    "crash": false,
+    "AssortMultiplier": 5,
+    "Disabled": false,
+    "loyaltyLevels": {
+        "minLevel1": 0,
+        "minLevel2": 7,
+        "minLevel3": 12,
+        "minLevel4": 17
+    },
+    "PriceRangeLL1": {
+        "LoyalLevel":1,
+        "AssortCount": 30,
+        "MinPrice": 500,
+        "MaxPrice": 15000,
+        "StockMin": 5,
+        "StockMax": 8,
+        "PriceMultiplierRange": {
+            "Min": 0.7,
+            "Max": 1.2
+        }
+    },
+    "PriceRangeLL2": {
+        "LoyalLevel":2,
+        "AssortCount": 20,
+        "MinPrice": 15000,
+        "MaxPrice": 25000,
+        "StockMin": 1,
+        "StockMax": 6,
+        "PriceMultiplierRange": {
+            "Min": 0.8,
+            "Max": 1.3
+        }
+    },
+    "PriceRangeLL3": {
+        "LoyalLevel":3,
+        "AssortCount": 10,
+        "MinPrice": 25000,
+        "MaxPrice": 40000,
+        "StockMin": 1,
+        "StockMax": 3,
+        "PriceMultiplierRange": {
+            "Min": 0.8,
+            "Max": 1.4
+        }
+    },
+    "PriceRangeLL4": {
+        "LoyalLevel":4,
+        "AssortCount": 4,
+        "MinPrice": 40000,
+        "MaxPrice": 100000,
+        "StockMin": 1,
+        "StockMax": 1,
+        "PriceMultiplierRange": {
+            "Min": 0.8,
+            "Max": 1.6
+        }
+    },
+    "Blacklist_Items": [
+        "54490a4d4bdc2dbc018b4573",
+        "6275303a9f372d6ea97f9ec7",
+        "544a3d0a4bdc2d1b388b4567",
+        "627bce33f21bc425b06ab967",
+        "5c1a1e3f2e221602b66cc4c2",
+        "5df8a6a186f77412640e2e80",
+        "5df8a72c86f77412640e2e83",
+        "5df8a77486f77412672a1e3f",
+        "607f201b3c672b3b3a24a800",
+        "5e71f6be86f77429f2683c44",
+        "5e71fad086f77422443d4604",
+        "5e71f70186f77429ee09f183",
+        "5732ee6a24597719ae0c0281",
+        "5cffa483d7ad1a049e54ef1c",
+        "62a09d79de7ac81993580530",
+        "59136f6f86f774447a1ed173",
+        "61a4cda622af7f4f6a3ce617",
+        "5f99418230835532b445e954",
+        "5f9949d869e2777a0e779ba5",
+        "5f9949d869e2777a0e779ba5",
+        "607f20859ee58b18e41ecd90",
+        "607f201b3c672b3b3a24a800",
+         "5e71f6be86f77429f2683c44",
+         "5e71fad086f77422443d4604",
+         "5f994730c91ed922dd355de3",
+         "5f99418230835532b445e954",
+         "5e71f70186f77429ee09f183",
+         "5648b62b4bdc2d9d488b4585"
+    ]
+}
+
