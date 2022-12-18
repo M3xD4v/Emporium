@@ -136,7 +136,6 @@ class Mod implements IPostDBLoadMod, IPreAkiLoadMod {
         tables.traders[this.traderBase._id].base.loyaltyLevels[2].minLevel = this.modConfig.loyaltyLevels.minLevel3;
         tables.traders[this.traderBase._id].base.loyaltyLevels[3].minLevel = this.modConfig.loyaltyLevels.minLevel4;
 
-        console.log(tables.traders[this.traderBase._id].base)
 
         const locales = Object.values(tables.locales.global) as ILocaleGlobalBase[];
         for (const locale of locales) {
